@@ -12,7 +12,7 @@ freq = [4, 0, 8, 18, 13, 17, 19, 14, 11, 20, 3, 2, 12, 15, 6, 1, 21, 7, 5, 16, 2
 
 
 prob_matrix = np.zeros((27, 27))
-file = open("metropolis_hastings/data.txt", "r")
+file = open("mh/data.txt", "r")
 n = 0
 for line in file:
     n += 1

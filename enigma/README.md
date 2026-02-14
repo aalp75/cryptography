@@ -3,10 +3,10 @@ Model M3 - German Army WWII
 
 
 ## Contents
-I   - M3 
-II  - Code  
-III - How to run  
-IV  - Examples  
+I   - M3  
+II  - Code   
+III - How to run    
+IV  - Examples    
 
 ## I - M3 machine
 
