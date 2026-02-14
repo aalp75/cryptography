@@ -1,7 +1,7 @@
 ## Cryptography 
 
-Implementation of some famous cryptography method:
+Implementations of classical cryptographic algorithms:
 
 - RSA
-- Enigma
-- Metropolis Hasting
+- Enigma machine (M3)
+- Metropolis-Hastings
